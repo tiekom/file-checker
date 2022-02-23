@@ -1,0 +1,7 @@
+{
+  "name": "file-checker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
